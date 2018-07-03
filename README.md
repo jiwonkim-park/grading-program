@@ -1,4 +1,4 @@
-# grading-program
+# Grading Program
 
 ## What is grading program?
 Mr. Jun works as a teacher at a university. He organizes student’s midterm grades. He needs to put student’s grades when he completes grading. Also, grades can be discarded if the students drop the course. He wants to find the grade of the students when some students ask for their grades. To manage midterm grades of students efficiently, he wrote down the information such as the student’s name and the grade of a student on a paper.
